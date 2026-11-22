@@ -1,0 +1,7 @@
+# Keep local files out of Vercel uploads
+*.mp4
+docs/
+
+# Full-size originals; the site uses the smaller JPG copies.
+public/assets/Warm Ghibli-Style Couple Portrait.png
+public/assets/Smiling Couple Amid Lush Greenery.png
